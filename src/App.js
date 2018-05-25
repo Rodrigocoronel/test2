@@ -239,7 +239,7 @@ class App extends Component {
           </div>
         </Content>
         <Footer style={{ textAlign: 'center' }}>
-          PAN ©2018 Created by WeNatives
+          ©2018 Created by WeNatives
         </Footer>
       </Layout>
     )
